@@ -1,0 +1,2 @@
+# marjong_AI
+marjongのaiである
